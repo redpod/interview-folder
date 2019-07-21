@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaWeb_GuideDog_byTZY:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a87d9ac-407f-406f-a94d-927e512620c0" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstitutionDAO.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/dao/InstitutionDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+              <folding>
+                <marker date="1540902341703" expanded="true" signature="857:1239" ph="select disti... t_institution" />
+                <marker date="1540902341703" expanded="true" signature="1745:1991" ph="select t_dog... t_dogtype" />
+                <marker date="1540902341703" expanded="true" signature="3578:3617" ph="insert into t_institution... " />
+                <marker date="1540902341703" expanded="true" signature="4023:4069" ph="insert into t_institution_dogtype... " />
+                <marker date="1540902341703" expanded="true" signature="5621:5657" ph="delete from t_institution... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guidedogSearch.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/guidedogSearch.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GuidedogDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/dao/GuidedogDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1782">
+              <caret line="74" column="98" lean-forward="false" selection-start-line="74" selection-start-column="98" selection-end-line="74" selection-end-column="98" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1540879371159" expanded="true" signature="753:793" ph="select * fro... t_guidedog" />
+                <marker date="1540879371159" expanded="true" signature="2379:2521" ph="select t_gui... t_guidedog" />
+                <marker date="1540879371159" expanded="true" signature="4221:4254" ph="delete from t_guidedog... " />
+                <marker date="1540879371159" expanded="true" signature="5223:5265" ph="insert into t_guidedog... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CultivateDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/dao/CultivateDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1809">
+              <caret line="75" column="81" lean-forward="false" selection-start-line="75" selection-start-column="81" selection-end-line="75" selection-end-column="81" />
+              <folding>
+                <marker date="1540517327096" expanded="true" signature="743:978" ph="select t_ins... t_institution" />
+                <marker date="1540517327096" expanded="true" signature="2502:2551" ph="insert into t_cultivate... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="showInformationHistory.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/showInformationHistory.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="72" column="7" lean-forward="false" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>t_institution_dogtype.dogtId</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/gd/dao/CultivateDAO.java" />
+        <option value="$PROJECT_DIR$/src/gd/dao/CultivateDAO.java" />
+        <option value="$PROJECT_DIR$/src/gd/dao/DogtypeDAO.java" />
+        <option value="$PROJECT_DIR$/src/gd/dao/GuidedogDAO.java" />
+        <option value="$PROJECT_DIR$/src/gd/dao/InstitutionDAO.java" />
+        <option value="$PROJECT_DIR$/src/gd/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/gd/po/Cultivate.java" />
+        <option value="$PROJECT_DIR$/src/gd/po/Dogtype.java" />
+        <option value="$PROJECT_DIR$/src/gd/po/Guidedog.java" />
+        <option value="$PROJECT_DIR$/src/gd/po/Institution.java" />
+        <option value="$PROJECT_DIR$/src/gd/po/User.java" />
+        <option value="$PROJECT_DIR$/src/gd/servlet/CultivateServlet.java" />
+        <option value="$PROJECT_DIR$/src/gd/servlet/GuidedogServlet.java" />
+        <option value="$PROJECT_DIR$/src/gd/servlet/InstitutionServlet.java" />
+        <option value="$PROJECT_DIR$/src/gd/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/gd/servlet/QuitServlet.java" />
+        <option value="$PROJECT_DIR$/src/gd/utils/AuthenticFilter.java" />
+        <option value="$PROJECT_DIR$/web/addInformationHistory.jsp" />
+        <option value="$PROJECT_DIR$/web/customeradd.jsp" />
+        <option value="$PROJECT_DIR$/web/customerdetail.jsp" />
+        <option value="$PROJECT_DIR$/web/customersearch.jsp" />
+        <option value="$PROJECT_DIR$/web/customersearch_result.jsp" />
+        <option value="$PROJECT_DIR$/web/newGuidedogAdd.jsp" />
+        <option value="$PROJECT_DIR$/web/guidedogSearch.jsp" />
+        <option value="$PROJECT_DIR$/web/guidedogSearchResult.jsp" />
+        <option value="$PROJECT_DIR$/web/showInformationHistory.jsp" />
+        <option value="$PROJECT_DIR$/web/dogtypeAdd.jsp" />
+        <option value="$PROJECT_DIR$/web/institutionadd.jsp" />
+        <option value="$PROJECT_DIR$/web/institutionsearch.jsp" />
+        <option value="$PROJECT_DIR$/web/institutionsearch_result.jsp" />
+        <option value="$PROJECT_DIR$/web/cultivateSearch.jsp" />
+        <option value="$PROJECT_DIR$/web/cultivateSearchResult.jsp" />
+        <option value="$PROJECT_DIR$/src/gd/servlet/CustomerServlet.java" />
+        <option value="$PROJECT_DIR$/src/gd/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/gd/utils/AuthenticFilter.java" />
+        <option value="$PROJECT_DIR$/src/gd/dao/CultivateDAO.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/gd/dao/InstitutionDAO.java" />
+        <option value="$PROJECT_DIR$/src/gd/po/Institution.java" />
+        <option value="$PROJECT_DIR$/src/gd/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/gd/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/web/inc/header.inc" />
+        <option value="$PROJECT_DIR$/src/gd/utils/AuthenticFilter.java" />
+        <option value="$PROJECT_DIR$/src/gd/utils/AuthenticFilter.java" />
+        <option value="$PROJECT_DIR$/web/institutionsearch.jsp" />
+        <option value="$PROJECT_DIR$/src/gd/dao/GuidedogDAO.java" />
+        <option value="$PROJECT_DIR$/web/cultivateSearchResult.jsp" />
+        <option value="$PROJECT_DIR$/src/gd/utils/AuthenticFilter.java" />
+        <option value="$PROJECT_DIR$/src/gd/dao/GuidedogDAO.java" />
+        <option value="$PROJECT_DIR$/web/showInformationHistory.jsp" />
+        <option value="$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/dao/InstitutionDAO.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="171" />
+    <option name="y" value="61" />
+    <option name="width" value="1280" />
+    <option name="height" value="706" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaWeb_GuideDog_byTZY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb_GuideDog_byTZY" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb_GuideDog_byTZY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb_GuideDog_byTZY" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb_GuideDog_byTZY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb_GuideDog_byTZY" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb_GuideDog_byTZY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb_GuideDog_byTZY" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gd" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb_GuideDog_byTZY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb_GuideDog_byTZY" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb_GuideDog_byTZY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb_GuideDog_byTZY" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="E:/apache-tomcat-8.5.24-windows-x64/apache-tomcat-8.5.24/lib/servlet-api.jar!/" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gd.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\JavaWeb_GuideDog_byTZY\web" />
+      <recent name="G:\JavaWeb_GuideDog_byTZY\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.241" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JavaWeb_GuideDog_byTZY:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JavaWeb_GuideDog_byTZY" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56909" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JavaWeb_GuideDog_byTZY:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a87d9ac-407f-406f-a94d-927e512620c0" name="Default" comment="" />
+      <created>1540387347801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540387347801</updated>
+      <workItem from="1540387351706" duration="2037000" />
+      <workItem from="1540389441076" duration="629000" />
+      <workItem from="1540392864488" duration="42000" />
+      <workItem from="1540516138662" duration="11786000" />
+      <workItem from="1540562013414" duration="813000" />
+      <workItem from="1540604589510" duration="9465000" />
+      <workItem from="1540627837017" duration="1554000" />
+      <workItem from="1540691722304" duration="3014000" />
+      <workItem from="1540700450751" duration="84000" />
+      <workItem from="1540711263148" duration="5366000" />
+      <workItem from="1540716680252" duration="4005000" />
+      <workItem from="1540793422028" duration="562000" />
+      <workItem from="1540808325848" duration="3701000" />
+      <workItem from="1540879211920" duration="2279000" />
+      <workItem from="1540895503395" duration="1690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47027000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23401827" sideWeight="0.34947917" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23401827" sideWeight="0.65052086" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24791667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39954337" sideWeight="0.49583334" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gd/servlet/LoginServlet.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/utils/AuthenticFilter.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/servlet/CustomerServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3564">
+          <caret line="132" column="47" lean-forward="true" selection-start-line="132" selection-start-column="47" selection-end-line="132" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/dao/CultivateDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/servlet/InstitutionServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3969">
+          <caret line="147" column="22" lean-forward="false" selection-start-line="147" selection-start-column="22" selection-end-line="147" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/dao/CultivateDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/dao/CultivateDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/dao/CultivateDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/inc/footer.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/po/Dogtype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/servlet/CultivateServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2575">
+          <caret line="132" column="5" lean-forward="true" selection-start-line="132" selection-start-column="5" selection-end-line="132" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/servlet/InstitutionServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3672">
+          <caret line="147" column="22" lean-forward="false" selection-start-line="147" selection-start-column="22" selection-end-line="147" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/servlet/QuitServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/addInformationHistory.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="73" column="19" lean-forward="true" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/customeradd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="30" column="23" lean-forward="false" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/customerdetail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="76" column="21" lean-forward="false" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/customersearch_result.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="39" column="38" lean-forward="false" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/newGuidedogAdd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="75" column="217" lean-forward="false" selection-start-line="75" selection-start-column="217" selection-end-line="75" selection-end-column="217" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/institutionadd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/institutionsearch_result.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="74" column="44" lean-forward="true" selection-start-line="74" selection-start-column="44" selection-end-line="74" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/utils/EncodingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/utils/CheckCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/po/Institution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/po/Guidedog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="32" column="25" lean-forward="false" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/po/Cultivate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/dogtypeAdd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/po/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="56" column="1" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/utils/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2646">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/servlet/GuidedogServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-tomcat-8.5.24-windows-x64/apache-tomcat-8.5.24/lib/servlet-api.jar!/javax/servlet/GenericServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="25" lean-forward="false" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-tomcat-8.5.24-windows-x64/apache-tomcat-8.5.24/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/cultivateSearch.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/institutionsearch.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/inc/header.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5243">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/dao/DogtypeDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="72" column="32" lean-forward="true" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/servlet/CustomerServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="19" column="80" lean-forward="false" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/customersearch.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="32" column="56" lean-forward="false" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/cultivateSearchResult.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/guidedogSearchResult.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="59" column="16" lean-forward="false" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/utils/AuthenticFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="35" column="33" lean-forward="false" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/guidedogSearch.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/dao/GuidedogDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="74" column="98" lean-forward="false" selection-start-line="74" selection-start-column="98" selection-end-line="74" selection-end-column="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1540879371159" expanded="true" signature="753:793" ph="select * fro... t_guidedog" />
+            <marker date="1540879371159" expanded="true" signature="2379:2521" ph="select t_gui... t_guidedog" />
+            <marker date="1540879371159" expanded="true" signature="4221:4254" ph="delete from t_guidedog... " />
+            <marker date="1540879371159" expanded="true" signature="5223:5265" ph="insert into t_guidedog... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/dao/CultivateDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1809">
+          <caret line="75" column="81" lean-forward="false" selection-start-line="75" selection-start-column="81" selection-end-line="75" selection-end-column="81" />
+          <folding>
+            <marker date="1540517327096" expanded="true" signature="743:978" ph="select t_ins... t_institution" />
+            <marker date="1540517327096" expanded="true" signature="2502:2551" ph="insert into t_cultivate... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/showInformationHistory.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="72" column="7" lean-forward="false" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaWeb_GuideDog_byTZY/src/gd/dao/InstitutionDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding>
+            <marker date="1540902341703" expanded="true" signature="857:1239" ph="select disti... t_institution" />
+            <marker date="1540902341703" expanded="true" signature="1745:1991" ph="select t_dog... t_dogtype" />
+            <marker date="1540902341703" expanded="true" signature="3578:3617" ph="insert into t_institution... " />
+            <marker date="1540902341703" expanded="true" signature="4023:4069" ph="insert into t_institution_dogtype... " />
+            <marker date="1540902341703" expanded="true" signature="5621:5657" ph="delete from t_institution... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JavaWeb_GuideDog_byTZY:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaWeb_GuideDog_byTZY</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>servlet-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
